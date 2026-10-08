@@ -1,0 +1,6 @@
+{
+  "name": "المهندسون الأخيرون: جبهة الإنقاذ - The Last Operators",
+  "description": "لعبة محاكاة واستراتيجية هندسية: قيادة أسطول الآليات الثقيلة لمواجهة الكوارث الطبيعية وإنقاذ العالقين وإعادة إعمار البنية التحتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
